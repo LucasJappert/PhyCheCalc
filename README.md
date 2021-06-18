@@ -1,9 +1,9 @@
 # phychecalc
 
+Make sure to have vue-cli updated! (npm update -g @vue/cli)
 ## Project setup
 ```
 npm install
-Make sure to have vue-cli updated! (npm update -g @vue/cli)
 ```
 
 ### Compiles and hot-reloads for development
